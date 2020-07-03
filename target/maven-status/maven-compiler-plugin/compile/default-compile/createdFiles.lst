@@ -1,0 +1,6 @@
+com/tkonieczny/elms_server/REST/LoginApiController.class
+com/tkonieczny/elms_server/DTO/LoginInfoDTO.class
+com/tkonieczny/elms_server/other/Subjects.class
+com/tkonieczny/elms_server/ApplicationMain.class
+com/tkonieczny/elms_server/other/Messages.class
+com/tkonieczny/elms_server/DTO/GradesDTO.class
